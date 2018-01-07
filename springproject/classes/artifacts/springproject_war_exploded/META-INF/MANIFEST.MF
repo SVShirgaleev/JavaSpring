@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: salavatshirgaleev
+Implementation-Vendor-Id: com.sshirgaleev
+Created-By: IntelliJ IDEA
+Build-Jdk: 9.0.1
+Main-Class: ${start-class}
+
